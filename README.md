@@ -8,10 +8,9 @@ There were 3 lab assignments in total. Each assignment included a set of questio
 
 - Classical Ciphers - Caesar, Vigenere, Playfair, Transposition
 - Modern Ciphers - DES, 3DES, AES, RSA
-- Frequency Analysis
+- Cryptanalysis - Frequency Analysis
 - Key Search Attacks
 - Dictionary Attacks
-- Information Gathering
-- Vulnerability Scanning
+- Vulnerability
 - Intrusion Detection
 - Firewalls
