@@ -13,4 +13,5 @@ There were 3 lab assignments in total. Each assignment included a set of questio
 - Dictionary Attacks
 - Information Gathering
 - Vulnerability Scanning
+- Intrusion Detection
 - Firewalls
